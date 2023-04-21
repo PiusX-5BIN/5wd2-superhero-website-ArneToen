@@ -1,0 +1,27 @@
+/* Navigation bar*/
+nav {
+    background: rgb(18, 101, 153);
+}
+
+* {
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+li {
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+nav ul li a {
+    color: white;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+label.logo {
+    color: white;
+    font-size: 35px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

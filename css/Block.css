@@ -1,0 +1,5 @@
+/* Navigation bar*/
+a.active,a:hover {
+    background-color: blue;
+    transition: .5s;
+}
