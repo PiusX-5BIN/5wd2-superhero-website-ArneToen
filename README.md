@@ -104,32 +104,32 @@ Voordat je je website voorziet van opmaak, ga je een ontwerp zoeken of maken. Zo
 
 | Term                      | Definitie |
 | ------------------------- | --------- |
-| CSS                       |           |
-| selector                  |           |
-| declaratie                |           |
-| opmaak                    |           |
-| property                  |           |
-| property-value (waarde)   |           |
-| stylesheet                |           |
-| externe stylesheet        |           |
-| *.css                     |           |
-| selector                  |           |
-| conflicterende stijlregel |           |
-| hover                     |           |
-| hexadecimale kleurwaarde  |           |
-| rgb kleurwaarde           |           |
-| font                      |           |
-| generic family            |           |
-| font family               |           |
-| serif                     |           |
-| sans-serif                |           |
-| monospace                 |           |
-| box model                 |           |
-| padding                   |           |
-| border                    |           |
-| margin                    |           |
-| width                     |           |
-| height                    |           |
+| CSS                       |Een taal die gebruikt wordt om de opmaak van een website te bepalen.           |
+| selector                  |vertelt de browser welke HTML-elementen moeten worden geselecteerd om de waarden van de CSS-eigenschappen in de regel op hen toe te passen.           |
+| declaratie                |bepaalt hoe de elementen op een webpagina worden opgemaakt.           |
+| opmaak                    |Het samenstellen van tekst en beeld op een grafisch verantwoorde wijze.           |
+| property                  |s een eigenschap (zoals kleur) waarvan de bijbehorende waarde één aspect bepaalt van hoe de browser het element moet weergeven.           |
+| property-value (waarde)   |is zijn waarde nadat alle berekeningen op de berekende waarde zijn uitgevoerd.           |
+| stylesheet                |om de lay-out en het ontwerp van een webpagina of document te regelen.           |
+| externe stylesheet        |een lijst van CSS regels.           |
+| *.css                     |selecteert alle elementen           |
+| selector                  |vertelt de browser welke HTML-elementen moeten worden geselecteerd om de waarden van de CSS-eigenschappen in de regel op hen toe te passen.           |
+| conflicterende stijlregel |css regels die elkaar conflicteren.           |
+| hover                     |Met hover kan je elementen doen veranderen door met je cursor erover te gaan.           |
+| hexadecimale kleurwaarde  |Een hexadecimale kleur wordt gespecificeerd met: #RRGGBB, waarbij de hexadecimale gehele getallen RR (rood), GG (groen) en BB (blauw) de componenten van de kleur aangeven.           |
+| rgb kleurwaarde           |Een RGB-kleurwaarde vertegenwoordigt rode, groene en blauwe lichtbronnen.           |
+| font                      |het lettertype van een element           |
+| generic family            |Met generic family kan je ook fonts kiezen           |
+| font family               |Met font-family kan je kiezen welke font je wil gebruiken           |
+| serif                     |Serifletters hebben een kleine streep aan de randen van elke letter.           |
+| sans-serif                |Dit lettertype heeft rechte uiteinden aan elke letter en er zijn geen strepen aan de randen, waardoor de letters er scherp en vlak uitzien en met strakke lijnen.           |
+| monospace                 |Alle tekens hebben dezelfde vaste breedte.           |
+| box model                 |is een container die meerdere eigenschappen bevat, waaronder randen, marge, opvulling, en de inhoud zelf.           |
+| padding                   |definieert het binnenste gedeelte van het boxmodel, dat ruimte creëert rond de inhoud van een element, binnen eventuele gedefinieerde marges en/of randen.           |
+| border                    |trekt een lijn rond een element.           |
+| margin                    |is de ruimte rond de rand van een element           |
+| width                     |De breedte van een element in de website           |
+| height                    |De hoogte van een element in de website           |
 
 
 ## 📚 Bronnen
