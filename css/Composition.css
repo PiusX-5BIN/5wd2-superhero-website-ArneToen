@@ -1,3 +1,8 @@
+/*Algemeen*/
+h2 {
+    margin-left: 3%;
+}
+
 /* Navigation bar*/
 nav {
     width: 100%;
@@ -29,11 +34,64 @@ label.logo {
     line-height: 50px;
     padding: 0 100px;
 }
+
 /*Banner*/
-header{
+header h1 {
     text-align: center;
-}
-#Banner{
-    width:100%;
+    position: relative;
+    top: -160px;
 }
 
+header p {
+    text-align: center;
+    position: relative;
+    top: -100px;
+}
+
+#Banner {
+    width: 100%;
+}
+
+/*Profile*/
+.Profiel img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
+/*Getuigenissen*/
+.FotosGetuigenissen {
+    width: 300px;
+}
+
+table {
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table table {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 10px;
+}
+/*Comics*/
+.comic-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  .comic-title {
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: px;
+  }
+  .comic-image {
+    width: 300px;
+    height: 450px;
+    object-fit: cover;
+    border: 1px;
+  }

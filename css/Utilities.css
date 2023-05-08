@@ -1,3 +1,9 @@
+/*Algemeen*/
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
 /* Navigation bar*/
 nav {
     background: rgb(18, 101, 153);
@@ -25,3 +31,57 @@ label.logo {
     font-size: 35px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+
+/*Banner*/
+header h1 {
+    color: red;
+}
+
+header p {
+    font-weight: bold;
+}
+
+/*Profile*/
+.Profiel p {
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.Profiel {
+    background-color: blue;
+}
+
+/*Getuigenissen*/
+table table {
+    background-color: lightgrey;
+    border-radius: 20px;
+}
+
+.Getuigenissen {
+    background-color: red;
+}
+
+/*Footer*/
+footer {
+    background-color: blue;
+}
+
+footer p {
+    font-weight: bold;
+    font-size: 20px;
+}
+/*Comics*/
+.comic-container {
+    background-color: red;
+    
+  }
+  .comic-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  .comic-image {
+    object-fit: cover;
+    border: solid black;
+  }
